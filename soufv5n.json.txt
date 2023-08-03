@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"garry s mod apk 1","desc":"description1 ser","photo":"https://iili.io/HZbbpea.webp"},
+  {"title":"garry s mod apk 2","desc":"description2 ser","photo":"https://iili.io/HZbpOc7.webp"},
+  {"title":"garry s mod apk 3","desc":"description3 ser","photo":"https://iili.io/HZbpbDJ.webp"},
+  {"title":"garry s mod apk 4","desc":"description4 ser","photo":"https://iili.io/HZby5Ou.webp"},
+  {"title":"garry s mod apk 5","desc":"description5 ser","photo":"https://iili.io/HZbyg5X.webp"},
+  {"title":"garry s mod apk 6","desc":"description6 ser","photo":"https://iili.io/HZbyiXf.webp"},
+  {"title":"garry s mod apk 7","desc":"description7 ser","photo":"https://iili.io/HZbym79.webp"},
+  {"title":"garry s mod apk 8","desc":"description8 ser","photo":"https://iili.io/HZm9B71.webp"}
    ]
  
 }
